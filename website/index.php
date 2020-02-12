@@ -14,7 +14,7 @@ $page = (isset($_GET['loadpage']) && $_GET['loadpage'] != '') ? $_GET['loadpage'
 <div id="container">
 	<div id="header">
 		<div id="logo"></div>
-		<div id="shop-name"><h2><center>Reefer's Cafe</center></h2></div>
+		<div id="shop-name"><h2>Reefer's Cafe</h2></div>
 		<div id="navigation">
 			<ul>
 				<li><a href="index.php?loadpage=home">Home</a></li>
