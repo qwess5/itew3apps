@@ -26,11 +26,10 @@ body{
 #shop-name{
 	width: 70%;
 	height: 100px;
-	float: left;
+	float: center;
 	display: block;
 	border: 0 solid #d44;
 	text-align: center;
-	float: center;
 }
 #navigation{
 	width: 70%;
