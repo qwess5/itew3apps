@@ -8,7 +8,7 @@ background-image: url(logo.jpg);
 background-repeat: no-repeat;
 background-position:center;
 background-size:cover;
-background-color:blue;
+background:#000000;
 }
 
 
